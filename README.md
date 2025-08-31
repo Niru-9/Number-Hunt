@@ -15,8 +15,8 @@ A fun and interactive number guessing game built with vanilla HTML, CSS, and Jav
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/number-hunt.git
-   cd number-hunt
+   git clone https://github.com/Niru-9/Number-Hunt
+   cd Number-Hunt
    ```
 
 2. **Run the game**
